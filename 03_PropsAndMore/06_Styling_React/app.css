@@ -1,0 +1,14 @@
+.machine {
+    border: 2px solid black;
+    background: lightblue;
+}
+
+.win{
+    background: green;
+    color: white;
+}
+
+.loose{    
+    background: red;
+    color: white;
+}
